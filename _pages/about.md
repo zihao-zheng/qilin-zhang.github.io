@@ -32,5 +32,5 @@ Publications
 Experiences
 ======
 * **Apr. 2019 - Sep. 2019.** Visiting student, Rutgers University, The United State.
-* **Feb. 2019 - Apr. 2019.** Internship, WeChat Group, Tencent Shenzhen, China.
+* **Feb. 2019 - Apr. 2019.** Internship, WeChat Group, Tencent Beijing, China.
 
