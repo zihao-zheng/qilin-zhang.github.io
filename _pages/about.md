@@ -18,16 +18,14 @@ Education
 Publications
 ======
 * ***Chong Chen***, Min Zhang, Chenyang Wang, Weizhi Ma, Minming Li, Yiqun Liu and Shaoping Ma. An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation. The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2019)**.
-<!--[Preprint Version](http://www.thuir.cn/group/~mzhang/publications/SIGIR2019ChenC.pdf)-->
-<!--[Code](https://github.com/chenchongthu/EATNN)-->
+[Preprint Version](http://www.thuir.cn/group/~mzhang/publications/SIGIR2019ChenC.pdf)[Code](https://github.com/chenchongthu/EATNN)
 * ***Chong Chen***, Min Zhang, Yiqun Liu and Shaoping Ma. Social Attentional Memory Network: Modeling Aspect- and Friend-level Diferences in Recommendation. The 12th ACM International Conference on Web Search and Data Mining **(WSDM 2019)**.
-<!--[Preprint Version](http://www.thuir.cn/group/~mzhang/publications/WSDM2019ChenChong.pdf)-->
-<!--[Code](https://github.com/chenchongthu/SAMN)-->
+[Preprint Version](http://www.thuir.cn/group/~mzhang/publications/WSDM2019ChenChong.pdf)[Code](https://github.com/chenchongthu/SAMN)
 * ***Chong Chen***, Min Zhang, Yiqun Liu and Shaoping Ma. Missing Data Modeling with User Activity and Item Popularity in Recommendation. The fourteenth Asia Information Retrieval Societies Conference **(AIRS 2018)**.
-<!--[Preprint Version](http://www.thuir.cn/group/~mzhang/publications/AIRS2018ChenChong.pdf)-->
+[Preprint Version](http://www.thuir.cn/group/~mzhang/publications/AIRS2018ChenChong.pdf)
 * ***Chong Chen***, Min Zhang, Yiqun Liu and Shaoping Ma. Neural Attentional Rating Regression with Review-level Explanations. The Web Conference 2018 **(WWW 2018)**.
-<!--[Preprint Version](http://www.thuir.cn/group/~mzhang/publications/WWW2018_CC.pdf)-->
-<!--[Code](https://github.com/chenchongthu/NARRE)-->
+[Preprint Version](http://www.thuir.cn/group/~mzhang/publications/WWW2018_CC.pdf)
+[Code](https://github.com/chenchongthu/NARRE)
 
 Experiences
 ======
