@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a second year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). My research interests are deep learning, user modeling, recommendation and etc.
 
-Education
+Educations
 ======
 * **Aug. 2017 - now.** Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
 * **Aug. 2013 - Jul. 2017.** B.E., Department of Computer Science and Technology, Tsinghua University, China. 
