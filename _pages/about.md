@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me: Chong Chen (陈冲)"
+title: "Chong Chen (陈冲)'s Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
