@@ -12,11 +12,21 @@ I am now a second year Ph.D. student in [THUIR group](http://www.thuir.cn/), [De
 
 Educations
 ======
-* **Aug. 2017 - now.** Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
-* **Aug. 2013 - Jul. 2017.** B.E., Department of Computer Science and Technology, Tsinghua University, China. 
+* *Aug. 2017 - now* Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
+* *Aug. 2013 - Jul. 2017* B.E., Department of Computer Science and Technology, Tsinghua University, China. 
+
+Honors and Awards
+======
+* *2019* **China National Scholarship**
+* *2019* **ACM SIGIR Student Travel Support**
+* *2018* **Best Paper Honorable Mention**, in AIRS 2018
+* *2017* **Outstanding Graduates**, Tsinghua University
 
 Publications
 ======
+* ***Chong Chen***, Min Zhang, Weizhi Ma, Yongfeng Zhang, Yiqun Liu and Shaoping Ma. **Efﬁcient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation.** The 44nd AAAI Conference on Artificial Intelligence. **(AAAI 2020)**.
+[Preprint Version](https://chenchongthu.github.io/files/AAAI_EHCF.pdf) 
+[Code](https://github.com/chenchongthu/EHCF)
 * ***Chong Chen***, Min Zhang, Chenyang Wang, Weizhi Ma, Minming Li, Yiqun Liu and Shaoping Ma. **An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation.** The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2019)**.
 [Preprint Version](http://www.thuir.cn/group/~mzhang/publications/SIGIR2019ChenC.pdf) 
 [Code](https://github.com/chenchongthu/EATNN)
@@ -31,6 +41,6 @@ Publications
 
 Experiences
 ======
-* **Apr. 2019 - Sep. 2019.** Visiting student, Rutgers University, The United State.
-* **Feb. 2019 - Apr. 2019.** Internship, WeChat Group, Tencent Beijing, China.
+* *Apr. 2019 - Sep. 2019.* Visiting student, Rutgers University, The United State.
+* *Feb. 2019 - Apr. 2019.* Internship, WeChat Group, Tencent Beijing, China.
 
