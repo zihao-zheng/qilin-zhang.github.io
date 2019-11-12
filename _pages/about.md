@@ -12,15 +12,15 @@ I am now a second year Ph.D. student in [THUIR group](http://www.thuir.cn/), [De
 
 Educations
 ======
-* *Aug. 2017 - now* Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
+* *Aug. 2017 - now.* Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
 * *Aug. 2013 - Jul. 2017* B.E., Department of Computer Science and Technology, Tsinghua University, China. 
 
 Honors and Awards
 ======
-* *2019* **China National Scholarship**
-* *2019* **ACM SIGIR Student Travel Support**
-* *2018* **Best Paper Honorable Mention**, in AIRS 2018
-* *2017* **Outstanding Graduates**, Tsinghua University
+* *2019.* **China National Scholarship**
+* *2019.* **ACM SIGIR Student Travel Support**
+* *2018.* **Best Paper Honorable Mention**, in AIRS 2018
+* *2017.* **Outstanding Graduates**, Tsinghua University
 
 Publications
 ======
