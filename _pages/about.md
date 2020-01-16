@@ -24,6 +24,9 @@ Honors and Awards
 
 Publications
 ======
+* ***Chong Chen***, Min Zhang, Yongfeng Zhang, Yiqun Liu and Shaoping Ma. **Efficient Neural Matrix Factorization without Sampling for Recommendation.** ACM Transactions on Information Systems. **(TOIS Vol. 38, No. 2, Article 14)**.
+[Preprint Version](https://chenchongthu.github.io/files/TOIS_ENMF.pdf) 
+[Code](https://github.com/chenchongthu/ENMF)
 * ***Chong Chen***, Min Zhang, Weizhi Ma, Yongfeng Zhang, Yiqun Liu and Shaoping Ma. **Efﬁcient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation.** The 44th AAAI Conference on Artificial Intelligence. **(AAAI 2020)**.
 [Preprint Version](https://chenchongthu.github.io/files/AAAI_EHCF.pdf) 
 [Code](https://github.com/chenchongthu/EHCF)
