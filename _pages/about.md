@@ -24,6 +24,9 @@ Honors and Awards
 
 Publications
 ======
+* ***Chong Chen***, Min Zhang, Weizhi Ma, Yiqun Liu and Shaoping Ma. **Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation.** The Web Conference 2020 **(WWW 2020)**.
+[Preprint Version](https://chenchongthu.github.io/files/WWW_ENSFM.pdf) 
+[Code](https://github.com/chenchongthu/ENSFM)
 * ***Chong Chen***, Min Zhang, Yongfeng Zhang, Yiqun Liu and Shaoping Ma. **Efficient Neural Matrix Factorization without Sampling for Recommendation.** ACM Transactions on Information Systems. **(TOIS Vol. 38, No. 2, Article 14)**.
 [Preprint Version](https://chenchongthu.github.io/files/TOIS_ENMF.pdf) 
 [Code](https://github.com/chenchongthu/ENMF)
