@@ -17,6 +17,7 @@ Educations
 
 Honors and Awards
 ======
+* *2020.* **Academic Rising Star**, the highest academic honor in the Department of CST, THU. Only 2 students (including master and Ph.D. students) are awarded each year.
 * *2019.* **China National Scholarship**
 * *2019.* **ACM SIGIR Student Travel Support**
 * *2018.* **Best Paper Honorable Mention**, in AIRS 2018
@@ -24,6 +25,9 @@ Honors and Awards
 
 Publications
 ======
+* ***Chong Chen***, Min Zhang, Weizhi Ma, Yiqun Liu and Shaoping Ma. **Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation.** The 43th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2020)**.
+[Preprint Version](https://chenchongthu.github.io/files/SIGIR_JNSKR.pdf) 
+[Code](https://github.com/chenchongthu/JNSKR)
 * ***Chong Chen***, Min Zhang, Weizhi Ma, Yiqun Liu and Shaoping Ma. **Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation.** The Web Conference 2020 **(WWW 2020)**.
 [Preprint Version](https://chenchongthu.github.io/files/WWW_ENSFM.pdf) 
 [Code](https://github.com/chenchongthu/ENSFM)
