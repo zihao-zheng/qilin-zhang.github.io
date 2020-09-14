@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). My research interests are deep learning, user modeling, recommendation and etc.
+I am now a fourth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). My research interests are deep learning, user modeling, recommendation and etc.
 
 Educations
 ======
@@ -18,6 +18,7 @@ Educations
 Honors and Awards
 ======
 * *2020.* **Academic Rising Star**, the highest academic honor in the Department of CST, THU. Only 2 students (including master and Ph.D. students) are awarded each year.
+* *2020.* **ACM SIGIR Student Travel Support**
 * *2019.* **China National Scholarship**
 * *2019.* **ACM SIGIR Student Travel Support**
 * *2018.* **Best Paper Honorable Mention**, in AIRS 2018
