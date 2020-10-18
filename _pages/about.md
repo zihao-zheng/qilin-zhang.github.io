@@ -17,6 +17,7 @@ Educations
 
 Honors and Awards
 ======
+* *2020.* **China National Scholarship**
 * *2020.* **Academic Rising Star**, the highest academic honor in the Department of CST, THU. Only 2 students (including master and Ph.D. students) are awarded each year.
 * *2020.* **ACM SIGIR Student Travel Support**
 * *2019.* **China National Scholarship**
