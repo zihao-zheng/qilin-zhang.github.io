@@ -12,13 +12,14 @@ I am now a fourth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [De
 
 Educations
 ======
-* *Aug. 2017 - now.* Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
-* *Aug. 2013 - Jul. 2017* B.E., Department of Computer Science and Technology, Tsinghua University, China. 
+* *Aug. 2017 - now.* Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China
+* *Aug. 2013 - Jul. 2017* B.E., Department of Computer Science and Technology, Tsinghua University, China
 
 Honors and Awards
 ======
+* *2020.* **ByteDance Scholars Program**, only 10 students are awarded in Chinese Mainland
 * *2020.* **China National Scholarship**
-* *2020.* **Academic Rising Star**, the highest academic honor in the Department of CST, THU. Only 2 students (including master and Ph.D. students) are awarded each year.
+* *2020.* **Academic Rising Star**, the highest academic honor in the Department of CST, THU. Only 2 students (including master and Ph.D. students) are awarded each year
 * *2020.* **ACM SIGIR Student Travel Support**
 * *2019.* **China National Scholarship**
 * *2019.* **ACM SIGIR Student Travel Support**
