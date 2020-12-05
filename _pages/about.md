@@ -29,6 +29,7 @@ Honors and Awards
 
 Publications
 ======
+* ***Chong Chen***, Weizhi Ma, Min Zhang, Zhaowei Wang, Xiuqiang He, Chenyang Wang, Yiqun Liu and Shaoping Ma. **Graph Heterogeneous Multi-Relational Recommendation.** The 45th AAAI Conference on Artificial Intelligence. **(AAAI 2021)**. To appear.
 * ***Chong Chen***, Min Zhang, Weizhi Ma, Yiqun Liu and Shaoping Ma. **Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation.** The 43th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2020)**.
 [Preprint Version](https://chenchongthu.github.io/files/SIGIR_JNSKR.pdf) 
 [Code](https://github.com/chenchongthu/JNSKR)
