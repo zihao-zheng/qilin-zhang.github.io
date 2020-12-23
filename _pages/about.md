@@ -17,6 +17,7 @@ Educations
 
 Honors and Awards
 ======
+* *2020.* **'84' Future Innovation Scholarship**
 * *2020.* **Zhong Shimo Scholarship**, the highest award in the Department of CST,Tsinghua University
 * *2020.* **ByteDance Scholars Program**, only 10 students are awarded in Chinese Mainland
 * *2020.* **China National Scholarship**
