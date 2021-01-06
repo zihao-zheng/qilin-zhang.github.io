@@ -35,11 +35,8 @@ Honors and Awards
 
 Publications
 ======
-## IN THE YEAR OF 2021:
-* Chenyang Wang, Weizhi Ma, Min Zhang, ***Chong Chen***, Yiqun Liu and Shaoping Ma. Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation **(TOIS Vol. 39, No. 2, Article 16)**.
+* Chenyang Wang, Weizhi Ma, Min Zhang, ***Chong Chen***, Yiqun Liu and Shaoping Ma. **Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation.** ACM Transactions on Information Systems. **(TOIS Vol. 39, No. 2, Article 16)**.
 * ***Chong Chen***, Weizhi Ma, Min Zhang, Zhaowei Wang, Xiuqiang He, Chenyang Wang, Yiqun Liu and Shaoping Ma. **Graph Heterogeneous Multi-Relational Recommendation.** The 45th AAAI Conference on Artificial Intelligence. **(AAAI 2021)**. To appear.
-
-## IN THE YEAR OF 2020:
 * ***Chong Chen***, Min Zhang, Weizhi Ma, Yiqun Liu and Shaoping Ma. **Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation.** The 43th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2020)**.
 [Preprint Version](https://chenchongthu.github.io/files/SIGIR_JNSKR.pdf) 
 [Code](https://github.com/chenchongthu/JNSKR)
@@ -52,16 +49,12 @@ Publications
 * ***Chong Chen***, Min Zhang, Weizhi Ma, Yongfeng Zhang, Yiqun Liu and Shaoping Ma. **Efﬁcient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation.** The 44th AAAI Conference on Artificial Intelligence. **(AAAI 2020)**.
 [Preprint Version](https://chenchongthu.github.io/files/AAAI_EHCF.pdf) 
 [Code](https://github.com/chenchongthu/EHCF)
-
-## IN THE YEAR OF 2019:
 * ***Chong Chen***, Min Zhang, Chenyang Wang, Weizhi Ma, Minming Li, Yiqun Liu and Shaoping Ma. **An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation.** The 42th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2019)**.
 [Preprint Version](http://www.thuir.cn/group/~mzhang/publications/SIGIR2019ChenC.pdf) 
 [Code](https://github.com/chenchongthu/EATNN)
 * ***Chong Chen***, Min Zhang, Yiqun Liu and Shaoping Ma. **Social Attentional Memory Network: Modeling Aspect- and Friend-level Diferences in Recommendation.** The 12th ACM International Conference on Web Search and Data Mining **(WSDM 2019)**.
 [Preprint Version](http://www.thuir.cn/group/~mzhang/publications/WSDM2019ChenChong.pdf)
 [Code](https://github.com/chenchongthu/SAMN)
-
-## IN THE YEAR OF 2018:
 * ***Chong Chen***, Min Zhang, Yiqun Liu and Shaoping Ma. **Missing Data Modeling with User Activity and Item Popularity in Recommendation.** The 14th Asia Information Retrieval Societies Conference **(AIRS 2018)**.
 [Preprint Version](http://www.thuir.cn/group/~mzhang/publications/AIRS2018ChenChong.pdf)
 * ***Chong Chen***, Min Zhang, Yiqun Liu and Shaoping Ma. **Neural Attentional Rating Regression with Review-level Explanations.** The Web Conference 2018 **(WWW 2018)**.
