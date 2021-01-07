@@ -35,7 +35,9 @@ Honors and Awards
 
 Publications
 ======
-* Chenyang Wang, Weizhi Ma, Min Zhang, ***Chong Chen***, Yiqun Liu and Shaoping Ma. **Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation.** ACM Transactions on Information Systems. **(TOIS Vol. 39, No. 2, Article 16)**.
+* Chenyang Wang, Weizhi Ma, Min Zhang, ***Chong Chen***, Yiqun Liu and Shaoping Ma. **Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation.** ACM Transactions on Information Systems. **(TOIS Vol. 39, No. 2, Article 16)**. 
+[Preprint Version](https://chenchongthu.github.io/files/TOIS-KDA-wcy.pdf) 
+[Code](https://github.com/THUwangcy)
 * ***Chong Chen***, Weizhi Ma, Min Zhang, Zhaowei Wang, Xiuqiang He, Chenyang Wang, Yiqun Liu and Shaoping Ma. **Graph Heterogeneous Multi-Relational Recommendation.** The 45th AAAI Conference on Artificial Intelligence. **(AAAI 2021)**. To appear.
 * ***Chong Chen***, Min Zhang, Weizhi Ma, Yiqun Liu and Shaoping Ma. **Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation.** The 43th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2020)**.
 [Preprint Version](https://chenchongthu.github.io/files/SIGIR_JNSKR.pdf) 
