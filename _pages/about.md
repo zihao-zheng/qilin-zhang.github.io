@@ -35,6 +35,8 @@ Honors and Awards
 
 Publications
 ======
+
+* Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, ***Chong Chen*** and Yongfeng Zhang. **Efficient Knowledge Graph Embedding without Negative Sampling.** The Web Conference 2021 **(WWW 2021)**. To appear.
 * Chenyang Wang, Weizhi Ma, Min Zhang, ***Chong Chen***, Yiqun Liu and Shaoping Ma. **Towards Dynamic User Intention: Temporal Evolution of Item Relations in Sequential Recommendation.** ACM Transactions on Information Systems. **(TOIS Vol. 39, No. 2, Article 16)**. 
 [Preprint Version](https://chenchongthu.github.io/files/TOIS-KDA-wcy.pdf) 
 [Code](https://github.com/THUwangcy/ReChorus)
