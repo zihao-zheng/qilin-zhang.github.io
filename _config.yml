@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chong Chen"
+title                    : "Zehong Ma"
 title_separator          : "-"
-name                     : &name "Chong Chen"
-description              : &description "Ph.D. student at Tsinghua University"
-url                      : https://chenchongthu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zehong Ma"
+description              : &description "Undergraduate at Northwestern Polytechnical University"
+url                      : https://zehong-ma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chenchongthu/chenchongthu.github.io"
+repository               : "zehong-ma/zehong-ma.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "陈冲"
-  avatar           : "cc2.png"
-  bio              : "Ph.D. student at Tsinghua University"
-  location         : "Beijing, China"
+  name             : "马泽红"
+  avatar           : "profile.jpg"
+  bio              : "Undergraduate at Northwestern Polytechnical University"
+  location         : "Xi'an,China"
   employer         :
-  googlescholar    : "https://scholar.google.com.hk/citations?user=XIiVCyQAAAAJ&hl=zh-CN"
-  email            : "cstchenc@163.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "npumzh@mail.nwpu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chenchongthu"
+  github           : "Zehong-Ma"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
