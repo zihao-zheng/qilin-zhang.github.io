@@ -18,15 +18,23 @@ Educations
 
 Honors and Awards
 ======
-* 2020. Outstanding Student Model of Northwestern Polytechnical University (The highest honor for undergraduates, with only 20 students in the university)
-* 2020. China National Scholarship
-* 2019. China National Scholarship
-* 2019.
-* Chinese robot championship
-* Chinese robot championship
-* Chinese robot championship
+* 2020\. Outstanding Student Model of Northwestern Polytechnical University (The highest honor for undergraduates, with only 20 students in the university)
+* 2020\. China National Scholarship
+* 2019\. China National Scholarship
+* 2019\. Outstanding Student of Northwestern Polytechnical University
+* 2020\. National Champion of China Robotics Competition Basketball Robot Project(Autonomy&Challenge) 
+* 2020\. National First Prize of DJI Robomaster Competition 
+* 2020\. Ranked 24th among 1433 teams in KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall
+* 2019\. National Third Runner-up of China Robotics Competition Advanced Vision Project(3D Measurement)
 * Chinese robot championship
 
 Projects
 ======
+  * visual 
   * basketball robot
+  * radar robot
+  * KDD baseline 
+  * passage flow predict
+  * xi'an house price analysis system
+  * wechat-program for school use
+
