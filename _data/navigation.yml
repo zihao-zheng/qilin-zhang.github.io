@@ -4,10 +4,8 @@ main:
     url: /#educations
     
   - title: "Honors and Awards"
-    url: /#Honors and Awards
+    url: /#honors and Awards
 
-  - title: "Experiences"
-    url: /#experiences
+  - title: "Projects"
+    url: /#projects
 
-  - title: "Project Experiences"
-    url: /#projectExperiences
