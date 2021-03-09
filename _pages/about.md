@@ -27,9 +27,6 @@ Honors and Awards
 * Chinese robot championship
 * Chinese robot championship
 
-Experiences
+Projects
 ======
   * basketball robot
-
-ProjectExperiences
-======
