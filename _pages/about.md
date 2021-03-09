@@ -12,27 +12,24 @@ I am now a third year undergraduate majoring in [Software Engineering](http://ru
 
 My research interests are computer vision, deep learning, robotics and etc.
 
-Education
+Educations
 ======
 * Aug.2018-now . B.S. in School of Software, Northwestern Polytechnical University
 
 Honors and Awards
 ======
-* Scholarship
-  * 2020. Outstanding Student Model of Northwestern Polytechnical University (The highest honor for undergraduates, with only 20 students in the university)
-  * 2020. China National Scholarship
-  * 2019. China National Scholarship
-  * 2019.
-
-* Competition Awards
-  * Chinese robot championship
-  * Chinese robot championship
-  * Chinese robot championship
-  * Chinese robot championship
-
-Publications
-======
+* 2020. Outstanding Student Model of Northwestern Polytechnical University (The highest honor for undergraduates, with only 20 students in the university)
+* 2020. China National Scholarship
+* 2019. China National Scholarship
+* 2019.
+* Chinese robot championship
+* Chinese robot championship
+* Chinese robot championship
+* Chinese robot championship
 
 Experiences
 ======
   * basketball robot
+
+ProjectExperiences
+======
