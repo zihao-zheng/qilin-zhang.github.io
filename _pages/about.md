@@ -34,6 +34,7 @@ Projects
   * basketball robot
   * radar robot
   * KDD baseline 
+  * [China Robotics Competition Advanced Vision](https://github.com/Zehong-Ma/nwpu_19_advanced_vision)
   * passage flow predict
   * xi'an house price analysis system
   * wechat-program for school use
