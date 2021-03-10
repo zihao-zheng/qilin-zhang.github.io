@@ -30,7 +30,7 @@ Honors and Awards
 
 Projects
 ======
-  * visual 
+  * visual refinement 
   * basketball robot
   * radar robot
   * KDD baseline 
