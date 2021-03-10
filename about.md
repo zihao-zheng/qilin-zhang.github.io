@@ -18,7 +18,7 @@ Educations
 
 Honors and Awards
 ======
-* *2020. Outstanding Student Model of Northwestern Polytechnical University (The highest honor for undergraduates, with only 20 students in the university)
+* 2020\. Outstanding Student Model of Northwestern Polytechnical University (The highest honor for undergraduates, with only 20 students in the university)
 * 2020\. China National Scholarship
 * 2019\. China National Scholarship
 * 2019\. Outstanding Student of Northwestern Polytechnical University
@@ -30,9 +30,12 @@ Honors and Awards
 
 Projects
 ======
+  * visual refinement 
   * basketball robot
   * radar robot
   * KDD baseline 
+  * [China Robotics Competition Advanced Vision](https://github.com/Zehong-Ma/nwpu_19_advanced_vision)
   * passage flow predict
   * xi'an house price analysis system
   * wechat-program for school use
+
