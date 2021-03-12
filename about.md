@@ -26,12 +26,11 @@ Honors and Awards
 * 2020\. National First Prize of DJI Robomaster Competition 
 * 2020\. Ranked 24th among 1433 teams in KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall
 * 2019\. National Third Runner-up of China Robotics Competition Advanced Vision Project(3D Measurement)
-* Chinese robot championship
 
 Projects
 ======
   * visual refinement 
-  * basketball robot
+  * [basketball robot project](https://github.com/Zehong-Ma/nwpu_20_basketball_robot)
   * radar robot
   * KDD baseline 
   * [China Robotics Competition Advanced Vision](https://github.com/Zehong-Ma/nwpu_19_advanced_vision)
