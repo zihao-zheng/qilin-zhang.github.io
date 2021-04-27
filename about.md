@@ -29,7 +29,6 @@ Honors and Awards
 
 Projects
 ======
-  * visual refinement 
   * [basketball robot project](https://github.com/Zehong-Ma/nwpu_20_basketball_robot)
   * radar robot
   * KDD baseline 
@@ -37,4 +36,5 @@ Projects
   * passage flow predict
   * xi'an house price analysis system
   * wechat-program for school use
-
+  * visual refinement 
+  * [OPINE-Net(tensorflow)](https://github.com/Zehong-Ma/OPINE-Net)
