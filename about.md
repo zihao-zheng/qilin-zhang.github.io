@@ -38,3 +38,4 @@ Projects
   * wechat-program for school use
   * visual refinement 
   * [OPINE-Net(tensorflow)](https://github.com/Zehong-Ma/OPINE-Net)
+  * [MIDL Compiler](https://github.com/Zehong-Ma/MIDL_compiler)
