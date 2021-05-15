@@ -34,7 +34,7 @@ Projects
   * KDD baseline 
   * [China Robotics Competition Advanced Vision](https://github.com/Zehong-Ma/nwpu_19_advanced_vision)
   * passage flow predict
-  * xi'an house price analysis system
+  * [xi'an house price analysis system](https://gitee.com/a-years-work-can-only-buy-a-toilet/house-analysis)
   * wechat-program for school use
   * visual refinement 
   * [OPINE-Net(tensorflow)](https://github.com/Zehong-Ma/OPINE-Net)
