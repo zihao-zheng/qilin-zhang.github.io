@@ -18,7 +18,7 @@ Educations
 
 # Publications
 
-+ Text-guided Visual Feature Refinement for Person Search
++ Text-Guided Visual Feature Refinement for Text-Based Person Search[pdf](./files/Text-Guided Visual Feature Refinement for Text-Based Person Search.pdf)
 
 Honors and Awards
 ======
