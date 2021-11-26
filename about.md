@@ -18,7 +18,7 @@ Educations
 
 # Publications
 
-+ Text-Guided Visual Feature Refinement for Text-Based Person Search[pdf](./files/Text-Guided Visual Feature Refinement for Text-Based Person Search.pdf)
++ Text-Guided Visual Feature Refinement for Text-Based Person Search (ICMR Oral)  [[pdf]](./files/Text-Guided Visual Feature Refinement for Text-Based Person Search.pdf)
 
 Honors and Awards
 ======
