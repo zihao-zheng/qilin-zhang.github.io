@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zehong Ma(马泽红)'s Homepage"
+title: "Qilin Zhang(张麒麟)'s Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -33,13 +33,13 @@ Honors and Awards
 
 Projects
 ======
-  * [basketball robot project](https://github.com/Zehong-Ma/nwpu_20_basketball_robot)
+  * [basketball robot project](https://github.com/zihao-zheng/nwpu_20_basketball_robot)
   * radar robot
   * KDD baseline 
-  * [China Robotics Competition Advanced Vision](https://github.com/Zehong-Ma/nwpu_19_advanced_vision)
+  * [China Robotics Competition Advanced Vision](https://github.com/zihao-zheng/nwpu_19_advanced_vision)
   * passage flow predict
   * [xi'an house price analysis system](https://gitee.com/a-years-work-can-only-buy-a-toilet/house-analysis)
   * wechat-program for school use
   * visual refinement 
-  * [OPINE-Net(tensorflow)](https://github.com/Zehong-Ma/OPINE-Net)
-  * [MIDL Compiler](https://github.com/Zehong-Ma/MIDL_compiler)
+  * [OPINE-Net(tensorflow)](https://github.com/zihao-zheng/OPINE-Net)
+  * [MIDL Compiler](https://github.com/zihao-zheng/MIDL_compiler)
